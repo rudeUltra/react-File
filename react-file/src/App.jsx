@@ -4,7 +4,7 @@ import LoginForm from './components/login'
 import AOS from "aos";
 import "aos/dist/aos.css";
 import SignUp from './components/SignUp';
-
+import React from 'react';
 import File from './file';
 import Navbar from './components/Navbar';
 import { useNavigate } from 'react-router-dom';
