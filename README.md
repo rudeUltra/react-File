@@ -1,7 +1,7 @@
 
 ## 💭 Installation
-
-The database is hosted using MongoDB atlas follow the below steps to run the application run the server and FrontEnd together.
+Clone the repository or Download it directly.
+The database is hosted using MongoDB atlas follow the below steps to run the application and run the server and FrontEnd together.
 
 
 ## 📦 Run FrontEnd
