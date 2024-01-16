@@ -26,7 +26,7 @@ const UserSchema = new Schema({
 UserSchema.plugin(passportLocalMongoose);
 const User = mongoose.model('user', UserSchema);
 
-const mongoString = 'mongodb+srv://rudhradeep:KhGlCU7jNUyS3os4@kuebiko.zfkcgjn.mongodb.net/?retryWrites=true&w=majority';
+const mongoString = '';
 mongoose.connect(mongoString);
 const db = mongoose.connection;
 
